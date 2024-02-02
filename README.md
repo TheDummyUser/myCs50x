@@ -5,7 +5,9 @@ This repository contains practice code for CS50x and any other C programming I d
 #### Made using NixOS/Nix
 
 - File structure:
-  ```
+
+```
+
  ├─ myc
  ├── csx
  │ └── makefile
@@ -13,5 +15,9 @@ This repository contains practice code for CS50x and any other C programming I d
  ├── flake.nix
  ├── makefile
  └── README.md
-  ```
- - csx for cs50 and its modules...
+ 
+```
+
+
+
+ - csx folder => for cs50 and its modules...
