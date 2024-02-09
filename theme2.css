@@ -1,0 +1,61 @@
+{
+  "name": "Kanagawa",
+  "description": "Theme inspired by the Kanagawa color scheme",
+  "authors": [
+    {
+      "name": "gabbar",
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": ["#ff0000"],
+    "BACKGROUND_MESSAGE_HOVER": ["#0b1622"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#0b1622"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#001f2e"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#0b1622"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#001f2e"],
+    "BACKGROUND_MODIFIER_HOVER": ["#001f2e"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#0b1622"],
+    "BACKGROUND_PRIMARY": ["#0b1622"],
+    "BACKGROUND_SECONDARY": ["#001f2e"],
+    "BACKGROUND_SECONDARY_ALT": ["#001f2e"],
+    "BACKGROUND_TERTIARY": ["#0b1622"],
+    "BORDER_FAINT": ["#ff0000"],
+    "BORDER_STRONG": ["#ff0000"],
+    "BORDER_SUBTLE": ["#ff0000"],
+    "CHANNEL_ICON": ["#ff0000"],
+    "CHANNELS_DEFAULT": ["#0074e0"],
+    "CHAT_BACKGROUND": ["#0b1622"],
+    "HEADER_PRIMARY": ["#0074e0"],
+    "HEADER_SECONDARY": ["#0074e0"],
+    "HOME_BACKGROUND": ["#001f2e"],
+    "INTERACTIVE_ACTIVE": ["#ff0000"],
+    "INTERACTIVE_HOVER": ["#0074e0"],
+    "INTERACTIVE_MUTED": ["#6e6a86"],
+    "INTERACTIVE_NORMAL": ["#7e5f5f"],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#0b1622"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#120707"],
+    "TEXT_DANGER": ["#ff0000"],
+    "TEXT_LINK": ["#ff0000"],
+    "TEXT_MUTED": ["#ff0000"],
+    "TEXT_NORMAL": ["#c7c7c7"],
+    "TEXT_SECONDARY": ["#c7c7c7"],
+    "CARD_PRIMARY_BG": ["#0b1622"],
+    "CARD_SECONDARY_BG": ["#0b1622"]
+  },
+  "rawColors": {
+    "PLUM_15": "#001f2e",
+    "PLUM_16": "#0b1622",
+    "PLUM_17": "#001f2e",
+    "PLUM_18": "#001f2e",
+    "PLUM_19": "#0b1622",
+    "PLUM_20": "#0b1622",
+    "PLUM_22": "#0b1622",
+    "PLUM_23": "#001f2e"
+  },
+  "background": {
+    "blur": 0.1,
+    "url": "https://raw.githubusercontent.com/olobia/themes/main/image%20(2).png",
+    "alpha": 1.0
+  },
+  "spec": 2
+}
