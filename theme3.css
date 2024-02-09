@@ -1,0 +1,53 @@
+{
+  "name": "Futuristic Cyber",
+  "authors": [
+    {
+      "name": "gabbar",
+      "id": "1173713387318939709"
+},
+  "description": "Futuristic theme with a Cyberpunk style",
+  "semanticColors": {
+    "BACKGROUND_ACCENT": ["#cc6666"],
+    "BACKGROUND_MESSAGE_HOVER": ["#282a2e"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#1d1f21"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#373b41"],
+    "BACKGROUND_SECONDARY_ALT": ["#373b41"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#373b41"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#1d1f21"],
+    "BACKGROUND_MODIFIER_HOVER": ["#1d1f21"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#cc6666"],
+    "BACKGROUND_PRIMARY": ["#1d1f21"],
+    "BACKGROUND_SECONDARY": ["#373b41"],
+    "BACKGROUND_SECONDARY_ALT": ["#373b41"],
+    "BACKGROUND_TERTIARY": ["#1d1f21"],
+    "CHANNEL_ICON": ["#81a2be"],
+    "CHANNELS_DEFAULT": ["#b4b7b4"],
+    "CHAT_BACKGROUND": ["#1d1f21"],
+    "HEADER_PRIMARY": ["#ffffff"],
+    "HEADER_SECONDARY": ["#ffffff"],
+    "HOME_BACKGROUND": ["#1d1f21"],
+    "INTERACTIVE_ACTIVE": ["#ffffff"],
+    "INTERACTIVE_HOVER": ["#282a2e"],
+    "INTERACTIVE_MUTED": ["#c5c8c6"],
+    "INTERACTIVE_NORMAL": ["#b4b7b4"],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#373b41"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#373b41"],
+    "TEXT_DANGER": ["#cc6666"],
+    "TEXT_LINK": ["#f0c674"],
+    "TEXT_MUTED": ["#c5c8c6"],
+    "TEXT_NORMAL": ["#c5c8c6"],
+    "CARD_PRIMARY_BG": ["#282a2e"],
+    "CARD_SECONDARY_BG": ["#373b41"]
+  },
+  "rawColors": {
+    "PLUM_15": "#1d1f21",
+    "PLUM_16": "#373b41",
+    "PLUM_17": "#1d1f21",
+    "PLUM_18": "#1d1f21",
+    "PLUM_19": "#373b41",
+    "PLUM_20": "#373b41",
+    "PLUM_22": "#373b41",
+    "PLUM_23": "#1d1f21"
+  },
+  "spec": 2
+}
