@@ -1,0 +1,69 @@
+{
+  "name": "Kanagawa",
+  "description": "Theme inspired by the Kanagawa color scheme",
+  "authors": [
+    {
+      "name": "gabbar",
+      "id": "1173713387318939709"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": ["#1d1f21"],
+    "BACKGROUND_MESSAGE_HOVER": ["#282a2e"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#1f1e1e"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#282a2e"],
+    "BACKGROUND_SECONDARY_ALT": ["#282a2e"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#282a2e"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#1f1e1e"],
+    "BACKGROUND_MODIFIER_HOVER": ["#1f1e1e"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#1d1f21"],
+    "BACKGROUND_PRIMARY": ["#1f1e1e"],
+    "BACKGROUND_SECONDARY": ["#282a2e"],
+    "BACKGROUND_SECONDARY_ALT": ["#282a2e"],
+    "BACKGROUND_TERTIARY": ["#1f1e1e"],
+    "CHANNEL_ICON": ["#c5c8c6"],
+    "CHANNELS_DEFAULT": ["#c5c8c6"],
+    "CHAT_BACKGROUND": ["#1e1e1e"],
+    "HEADER_PRIMARY": ["#e0e0e0"],
+    "HEADER_SECONDARY": ["#e0e0e0"],
+    "HOME_BACKGROUND": ["#1f1e1e"],
+    "INTERACTIVE_ACTIVE": ["#e0e0e0"],
+    "INTERACTIVE_HOVER": ["#282a2e"],
+    "INTERACTIVE_MUTED": ["#b4b7b4"],
+    "INTERACTIVE_NORMAL": ["#c5c8c6"],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#373b41"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#373b41"],
+    "TEXT_DANGER": ["#cc6666"],
+    "TEXT_LINK": ["#1981fc"],
+    "TEXT_MUTED": ["#b4b7b4"],
+    "TEXT_NORMAL": ["#e0e0e0"],
+    "CARD_PRIMARY_BG": ["#1d1f21"],
+    "CARD_SECONDARY_BG": ["#282a2e"]
+  },
+  "rawColors": {
+    "PLUM_15": "#1f1e1e",
+    "PLUM_16": "#282a2e",
+    "PLUM_17": "#1f1e1e",
+    "PLUM_18": "#1f1e1e",
+    "PLUM_19": "#282a2e",
+    "PLUM_20": "#282a2e",
+    "PLUM_22": "#282a2e",
+    "PLUM_23": "#1f1e1e"
+  },
+  "plus": {
+    "version": "0",
+    "unreadBadgeColor": "#c5c8c6",
+    "mentionLineColor": "#cc6666",
+    "iconpack": "md3",
+    "icons": {
+      "ic_new_pins": "#cc6666",
+      "StatusStreaming": "#b294bb",
+      "StatusMobileOnline": "#8abeb7",
+      "StatusIdle": "#f0c674",
+      "StatusDND": "#cc6666",
+      "StatusOffline": "#c5c8c6",
+      "StatusOnline": "#8abeb7"
+    }
+  },
+  "spec": 2
+}
