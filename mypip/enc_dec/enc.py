@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+import os
+
 from cryptography.fernet import Fernet
 
 
@@ -15,6 +17,7 @@ def main(filename, key):
     with open(filename + ".encrypted", "wb") as file:
         file.write(eync_data)
     print("done! ")
+    os.remove(filename)
 
 
 def passd(filename, key):

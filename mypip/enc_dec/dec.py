@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import os
 
 from cryptography.fernet import Fernet
 
@@ -15,9 +16,10 @@ def dec_file(k, enc_f):
         fernet = Fernet(k)
         dec_data = fernet.decrypt(enc_data)
 
-        def_filee = enc_f.replace(".encrypted", "_decrypted")
+        def_filee = enc_f.replace(".encrypted", "")
         with open(def_filee, "wb") as file:
             file.write(dec_data)
+            os.remove(enc_f)
 
 
 enc_f = "text.txt.encrypted"
