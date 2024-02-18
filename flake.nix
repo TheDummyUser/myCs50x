@@ -28,7 +28,7 @@
               languages.python = {
                 enable = true;
                 package = pkgs.python3.withPackages
-                  (ps: with ps; [ black python-lsp-server ]);
+                  (ps: with ps; [ black python-lsp-server cryptography ]);
                 venv.enable = true;
               };
 
