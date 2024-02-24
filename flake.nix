@@ -18,6 +18,7 @@
               packages = with pkgs; [
                 nodejs
                 nodePackages.pyright
+                nodePackages_latest.expo-cli
                 libcs50
                 cmake
                 #python-language-server
@@ -25,10 +26,17 @@
 
               dotenv.disableHint = true;
               languages.c.enable = true;
+              languages.javascript.enable = true;
               languages.python = {
                 enable = true;
-                package = pkgs.python3.withPackages
-                  (ps: with ps; [ black python-lsp-server cryptography ]);
+                package = pkgs.python3.withPackages (ps:
+                  with ps; [
+                    black
+                    python-lsp-server
+                    cryptography
+                    flask
+                    tkinter
+                  ]);
                 venv.enable = true;
               };
 
