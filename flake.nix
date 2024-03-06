@@ -21,6 +21,7 @@
                 nodePackages_latest.expo-cli
                 libcs50
                 cmake
+                android-tools
                 #python-language-server
               ];
 
